@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Dhamotharan
 
-Python Full Stack Developer (Fresher)
+**Python Full Stack Developer (Fresher)**
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - 🔭 I'm currently building full-stack web apps with **Django + React.js**
@@ -16,10 +16,10 @@ Python Full Stack Developer (Fresher)
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/django.png"/> <img height="50" width="50" src="https://img.icons8.com/officel/48/000000/flask.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tailwind_css.png"/>
 
 ### Databases
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/github.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/postman-api.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/console.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/github.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/console.png"/>
 
 ### 🚀 Featured Project
 [![Volt E-commerce](https://github-readme-stats.vercel.app/api/pin/?username=dhamugit05&repo=volt-ecommerce&theme=dark)](https://github.com/dhamugit05/volt-ecommerce)
